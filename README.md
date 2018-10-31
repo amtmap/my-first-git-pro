@@ -1,2 +1,2 @@
 # my-first-git-pro
-first test github project
+my first test github project
